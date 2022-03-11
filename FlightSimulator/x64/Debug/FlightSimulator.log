@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(54,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(246,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(430,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(432,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(434,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(436,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(438,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(440,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(456,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(463,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(471,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(478,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(482,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(488,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\vidudoanDH\FlightSimulator\FlightSimulator\main.cpp(490,28): warning C4305: '=': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  FlightSimulator.vcxproj -> C:\vidudoanDH\FlightSimulator\x64\Debug\FlightSimulator.exe
